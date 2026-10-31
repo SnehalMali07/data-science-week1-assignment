@@ -17,6 +17,7 @@ Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook (VS Code).
 2. **Sales analysis:** calculated KPIs on delivered orders, analysed monthly trends, regions and customer behaviour.
 3. **Visualization:** created a bar chart, a line chart, a pie chart and a dashboard mockup.
 4. **Report:** summarised the work in `reports/final_report.pdf`.
+5. **Power BI dashboard:** a second version of the dashboard, built from `data/cleaned/sales_cleaned_merged.csv`, is in `outputs/dashboard/` (`olist_dashboard.pdf`).
 
 ## Major Findings
 - Delivered orders generated 13,221,498.11 BRL from 96,478 orders (average order value 137.04 BRL).
